@@ -1,2 +1,2 @@
-# hello-world
-learning
+# hello-world Git
+#### Learning Git / GitHub
